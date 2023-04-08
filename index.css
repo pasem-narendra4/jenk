@@ -1,0 +1,18 @@
+frameset{
+    border: 2px solid black;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: chartreuse;
+}
+.back{
+    background-color: red;
+}
+.log{
+    background-color: burlywood;
+}
+.logo{
+    background-color:burlywood ;
+}
